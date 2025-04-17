@@ -1,0 +1,4 @@
+[[main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 10

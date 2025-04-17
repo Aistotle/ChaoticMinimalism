@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/safety/</link>
+    <description>Recent content in Safety on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 15:10:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of AI Safety</title>
+      <link>http://localhost:1313/posts/ai-safety/</link>
+      <pubDate>Thu, 17 Apr 2025 15:10:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/ai-safety/</guid>
+      
+      <description>&lt;p&gt;AI safety is a rapidly evolving field, blending technical, philosophical, and ethical questions. This post explores emerging ideas and why careful design matters.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally written in 2025&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

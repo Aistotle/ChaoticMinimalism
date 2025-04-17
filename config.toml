@@ -1,0 +1,14 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Chaotic Minimalism"
+theme = "hugo-blog-awesome"
+
+[params]
+  mainSections = ["posts"]
+  defaultColor = "auto"
+  dateFormat = "2 Jan 2006"
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 10
