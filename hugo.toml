@@ -1,4 +1,41 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# Updated site configuration – merged settings, added author, params, and removed placeholder defaults
+baseURL = "https://chaoticminimalism.com/"
+languageCode = "en-us"
+title = "Chaotic Minimalism"
 theme = "hugo-blog-awesome"
+
+[params]
+  # Content sections that should appear on home & RSS
+  mainSections = ["posts", "research_posts"]
+  # Light by default – visitors can still toggle
+  defaultColor = "light"
+  # Global date display format
+  dateFormat = "2 Jan 2006"
+  # Used in meta tags / manifest
+  sitename = "Chaotic Minimalism"
+  description = "Explorations of AI, consciousness, and our shared future."
+  goToTop = true
+
+  # Author block used in footer / meta
+  [params.author]
+    name = "Christian Katzmann"
+    intro = "Hi, I'm Christian — writer & researcher."
+    description = "I examine AI philosophy, safety, and the mysteries of mind."
+    avatar = "/images/avatar.jpg" # place custom avatar here
+
+  # Web-app manifest settings
+  [params.webmanifest]
+    name = "Chaotic Minimalism"
+    short_name = "CM Blog"
+    theme_color = "#434648"
+    background_color = "#ffffff"
+    display = "standalone"
+    start_url = "/"
+
+  # Social links rendered by theme
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/chaoticminimalism"
+  [[params.socialIcons]]
+    name = "twitter"
+    url  = "https://twitter.com/chaoticmind"

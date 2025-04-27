@@ -1,12 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Chaotic Minimalism</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Chaotic Minimalism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 15:10:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Apr 2025 15:10:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At the Threshold</title>
+      <link>http://localhost:1313/posts/faust/</link>
+      <pubDate>Sat, 26 Apr 2025 15:10:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/faust/</guid>
+      
+      <description>&lt;p&gt;In the German tale of Faust, a scientist&amp;rsquo;s insatiable thirst for knowledge and power is portrayed through his grim pact with the infernal spirit, Mephistopheles.  The pact grants Faust unlimited insight into the mysteries of the world, while Mephisto commits to serve and satisfy all of Faust&amp;rsquo;s whims as long as he lives. The price of this agreement, however, is nothing less than Faust&amp;rsquo;s immortal soul.&lt;/p&gt;
+&lt;p&gt;There are, however, two variants of the story&amp;rsquo;s ending. In both, Mephisto comes to claim Faust&amp;rsquo;s soul as promised. In the original versions, Faust is doomed to serve the devil in hell for eternity, but in the newer, and perhaps more well-known version by Johann Wolfgang von Goethe penned in the 1770s, the ending takes a significantly different turn. Here, Faust&amp;rsquo;s soul is saved by divine intervention, thanks to his pure, relentless pursuit of knowledge and progress, for both himself and humanity.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Accessible Research Post</title>
+      <link>http://localhost:1313/research_posts/from-homepage/</link>
+      <pubDate>Tue, 22 Apr 2025 00:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/research_posts/from-homepage/</guid>
+      
+      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;This research post can be accessed directly from the homepage. It demonstrates linking between content types in Hugo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Example Research Post</title>
+      <link>http://localhost:1313/research_posts/example/</link>
+      <pubDate>Tue, 22 Apr 2025 00:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/research_posts/example/</guid>
+      
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This is the body of your research post. You can use Markdown as usual.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Describe your research methods here.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Present your results here.&lt;/p&gt;
+&lt;h2 id=&#34;discussion&#34;&gt;Discussion&lt;/h2&gt;
+&lt;p&gt;Discuss the implications of your research here.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Summarize your findings and propose next steps.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>The Future of AI Safety</title>
       <link>http://localhost:1313/posts/ai-safety/</link>
@@ -23,19 +67,14 @@
     <item>
       <title>Welcome to Chaotic Minimalism</title>
       <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Thu, 17 Apr 2025 15:10:00 +0200</pubDate>
+      <pubDate>Wed, 16 Apr 2025 15:10:00 +0200</pubDate>
       
       <guid>http://localhost:1313/posts/welcome/</guid>
       
-      <description>&lt;p&gt;This is the featured post. Here you will find explorations of AI philosophy, safety, and the future of intelligence.&lt;/p&gt;
-&lt;h2 id=&#34;what-to-expect&#34;&gt;What to expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Minimal, elegant design&lt;/li&gt;
-&lt;li&gt;Personal AI-generated artwork&lt;/li&gt;
-&lt;li&gt;Deep, clean reading experience&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Originally written in 2025&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don’t really know if Chaotic Minimalism is a thing.&lt;/p&gt;
+&lt;p&gt;I mean, it’s a thing to me. But whether it’ll ever be a thing to anyone else — that’s a different story.&lt;/p&gt;
+&lt;p&gt;I didn’t set out to name it.&lt;/p&gt;
+&lt;p&gt;It just kept humming under everything I did, until eventually I had to call it something, just so it would stop looking at me like, “Dude..? Are you going to pretend I’m not here?”&lt;/p&gt;</description>
       
     </item>
     

@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philosophy on My New Hugo Site</title>
-    <link>http://localhost:54400/tags/philosophy/</link>
-    <description>Recent content in Philosophy on My New Hugo Site</description>
+    <title>Philosophy on Chaotic Minimalism</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Chaotic Minimalism</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:54400/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Apr 2025 15:10:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At the Threshold</title>
+      <link>http://localhost:1313/posts/faust/</link>
+      <pubDate>Sat, 26 Apr 2025 15:10:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/faust/</guid>
+      
+      <description>&lt;p&gt;In the German tale of Faust, a scientist&amp;rsquo;s insatiable thirst for knowledge and power is portrayed through his grim pact with the infernal spirit, Mephistopheles.  The pact grants Faust unlimited insight into the mysteries of the world, while Mephisto commits to serve and satisfy all of Faust&amp;rsquo;s whims as long as he lives. The price of this agreement, however, is nothing less than Faust&amp;rsquo;s immortal soul.&lt;/p&gt;
+&lt;p&gt;There are, however, two variants of the story&amp;rsquo;s ending. In both, Mephisto comes to claim Faust&amp;rsquo;s soul as promised. In the original versions, Faust is doomed to serve the devil in hell for eternity, but in the newer, and perhaps more well-known version by Johann Wolfgang von Goethe penned in the 1770s, the ending takes a significantly different turn. Here, Faust&amp;rsquo;s soul is saved by divine intervention, thanks to his pure, relentless pursuit of knowledge and progress, for both himself and humanity.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

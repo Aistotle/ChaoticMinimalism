@@ -4,6 +4,7 @@ date: 2025-04-17T15:10:00+02:00
 description: "Exploring the philosophical and practical challenges of AI safety."
 thumbnail: "/images/ai-art-thumb.jpg"
 tags: ["AI", "Safety"]
+author: "Christian Katzmann"
 thread_continuation:
   - url: "/posts/welcome/"
     title: "Welcome to Chaotic Minimalism"

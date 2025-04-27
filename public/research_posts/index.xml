@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research_posts on Chaotic Minimalism</title>
+    <link>http://localhost:1313/research_posts/</link>
+    <description>Recent content in Research_posts on Chaotic Minimalism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 00:12:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/research_posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessible Research Post</title>
+      <link>http://localhost:1313/research_posts/from-homepage/</link>
+      <pubDate>Tue, 22 Apr 2025 00:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/research_posts/from-homepage/</guid>
+      
+      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;This research post can be accessed directly from the homepage. It demonstrates linking between content types in Hugo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Example Research Post</title>
+      <link>http://localhost:1313/research_posts/example/</link>
+      <pubDate>Tue, 22 Apr 2025 00:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/research_posts/example/</guid>
+      
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This is the body of your research post. You can use Markdown as usual.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Describe your research methods here.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Present your results here.&lt;/p&gt;
+&lt;h2 id=&#34;discussion&#34;&gt;Discussion&lt;/h2&gt;
+&lt;p&gt;Discuss the implications of your research here.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Summarize your findings and propose next steps.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
